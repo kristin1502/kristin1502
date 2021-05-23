@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kristin1502
-- 👀 I’m interested in small projects to make my life easier. 
+- 👀 I’m interested in small projects that make my life easier. 
 - 🌱 I’m currently learning how to code a twitch chatbot. 
 
 <!---
